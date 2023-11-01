@@ -2,6 +2,7 @@
 permalink: /CV/
 title: "CV"
 toc: true
+toc_sticky: true
 ---
 
 This is the curriculum vitae.
