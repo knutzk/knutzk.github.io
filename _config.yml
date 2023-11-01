@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -110,6 +110,9 @@ author:
   location         : "Based at CERN, the European<br>Center for Nuclear Research<br>in Geneva, Switzerland"
   email            :
   links:
+    - label: "Harvard University"
+      icon: "fas fa-fw fa-building"
+      URL: "https://www.physics.harvard.edu/"
     - label: "kzoch@g.harvard.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kzoch@g.harvard.edu"
