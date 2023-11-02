@@ -1,9 +1,9 @@
 ---
-permalink: /
-title: "Home"
+permalink: /bio/
+title: "Biography"
 ---
 
-Hi, I am a Postdoctoral Fellow in the group of Professor Morii at the Harvard University [Department of Physics](https://www.physics.harvard.edu/), affiliated with the [Laboratory for Particle Physics and Cosmology](https://lppc.physics.harvard.edu/ (LPPC)). I am an experimental particle physicist working on the **ATLAS Experiment**, which records particle collisions at the world’s most powerful particle accelerator, the Large Hadron Collider (LHC). The home of both the ATLAS Experiment and the LHC accelerator is **CERN**, the European Center for Nuclear Research, near Geneva in Switzerland – which is where I conduct my research.
+Hi, I am a Postdoctoral Fellow in the group of Professor Morii at the Harvard University [Department of Physics](https://www.physics.harvard.edu/), affiliated with the [Laboratory for Particle Physics and Cosmology (LPPC)](https://lppc.physics.harvard.edu/). I am an experimental particle physicist working on the **ATLAS Experiment**, which records particle collisions at the world’s most powerful particle accelerator, the Large Hadron Collider (LHC). The home of both the ATLAS Experiment and the LHC accelerator is **CERN**, the European Center for Nuclear Research, near Geneva in Switzerland – which is where I conduct my research.
 
 My journey started in 2010 with the undergraduate physics program at the [University of Göttingen](https://www.uni-goettingen.de/en/482320.html) in Germany. Fascinated by the exciting fundamental research done at CERN, I continued on this path, eventually earning a Ph.D. in physics from the University of Göttingen. For my **doctoral studies**, I explored the heaviest particle we know to date – the top quark – and how it couples to and interacts with other elementary particles. After completing my Ph.D., I accepted a position as a **postdoctoral researcher** at the [University of Geneva](https://www.unige.ch/dpnc/en/) in Switzerland. While continuing top-quark physics at Geneva, I also focused on developing **machine-learning algorithms** for analyzing particle physics data.
 
@@ -27,7 +27,7 @@ As a member of the ATLAS Collaboration, I am co-authoring 50+ publications relea
   [JHEP 09 (2020) 049](https://doi.org/10.1007/JHEP09(2020)049), [arXiv:2007.06946](https://arxiv.org/abs/2007.06946)
 
 
-  # Teaching / Tutoring
+# Teaching / Tutoring
 
 I have tutored numerous classes throughout my academic career and have **assisted in teaching** for many years. Most recently, I tutored courses on particle physics and statistical methods for data analysis. I have had the opportunity to design course content for some of these courses that involved creating physics exercise sheets, hands-on coding exercises, and exams from scratch. These included
 

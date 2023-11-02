@@ -1,5 +1,5 @@
 ---
-permalink: /CV/
+permalink: /cv/
 title: "Curriculum Vitae"
 toc: true
 toc_sticky: true
