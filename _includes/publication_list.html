@@ -1,0 +1,34 @@
+<!-- Determine which pub_category was given to this file,  -->
+<!-- then only list those publications. -->
+
+{% if include.pub_category %}
+    {% assign publications_to_list = site.publications
+        | where: "pub_category", include.pub_category 
+        | sort: "date" 
+        | reverse %}
+{% else %}
+    {% assign publications_to_list = site.publications 
+        | sort: "date" 
+        | reverse %}
+{% endif %}
+
+<ol>{% for pub in publications_to_list %}
+<li>
+    <b>{{ pub.title }}.</b><br>
+    <em>{{ pub.author }}.</em><br>
+
+    {% if pub.reference and pub.doi %}
+        <a href="https://doi.org/{{ pub.doi }}">{{ pub.reference }}</a>.
+    {% elsif pub.reference %}
+        {{ pub.reference }} ({{ pub.date | date: "%b %Y" }}).
+    {% endif %}
+
+    {% if pub.eprint %}
+        <a href="https://arxiv.org/abs/{{ pub.eprint }}">arXiv:{{ pub.eprint }}</a>{% if pub.reference %}.{% else %} ({{ pub.date | date: "%b %Y" }}).{% endif %}
+    {% endif %}
+
+    {% if pub.reporturl and pub.reportnumber %}
+        <a href="{{ pub.reporturl }}">{{ pub.reportnumber }}</a>.
+    {% endif %}
+</li>
+{% endfor %}</ol>

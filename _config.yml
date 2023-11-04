@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "kzoch.net"
 title_separator          : "-"
-subtitle                 : "Personal website of Knut Zoch, Ph.D."
+subtitle                 : ""  # "Personal website of Knut Zoch, Ph.D."
 name                     : "Knut Zoch"
 description              : "Personal website of Knut Zoch, Ph.D., postdoctoral fellow in experimental particle physics at Harvard University"
 URL                      : "https://knutzk.github.io"
@@ -31,34 +31,12 @@ masthead_title           : # overrides the website title displayed in the masthe
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
-  giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true  # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -104,21 +82,38 @@ analytics:
 
 # Site Author
 author:
-  name             : "Knut Zoch"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Fellow in Experimental Particle Physics at Harvard University"
-  location         : "Geneva, Switzerland"
-  email            : "kzoch@g.harvard.edu"
+  name             : "Knut Zoch, Ph.D."
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "Postdoctoral Fellow<br>
+                      in Experimental Particle Physics<br>
+                      at Harvard University<br>
+                      <br>
+                      Based at CERN, the European<br>
+                      Center for Nuclear Research<br>
+                      in Geneva, Switzerland."
+                      # <b>Address:</b><br>
+                      # Harvard University<br>
+                      # Department of Physics<br>
+                      # 17 Oxford Street<br>
+                      # Cambridge, MA 02138<br>
+                      # <br>
+  # location         : "Geneva, Switzerland"
+  # email            : "kzoch@g.harvard.edu"
+  # linkedin         : "knutzk"
+  # facebook         : "test"
   links:
     - label: "Harvard University"
       icon: "fas fa-fw fa-building"
-      url: "https://physics.harvard.edu/"
-    - label: "LinkedIn/knutzk"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/knutzk"
+      url: "https://harvard.edu/"
     # - label: "GitHub/knutzk"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/knutzk"
+    - label: "kzoch@g.harvard.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kzoch@g.harvard.edu"
+    - label: "LinkedIn/knutzk"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/knutzk"
     - label: "kzoch.net"
       icon: "fas fa-fw fa-link"
       url: "https://knutzk.github.io"
@@ -176,8 +171,8 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - _publications/template.md
+  - _mentorings/template.md
 keep_files:
   - .git
   - .svn
@@ -281,3 +276,21 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      type: publications
+    values:
+      layout: publications
+      author_profile: true
+  - scope:
+      type: mentorings
+    values:
+      layout: mentorings
+      author_profile: true
+
+collections:
+  publications:
+    output: true
+    sort_by: date
+  mentorings:
+    output: true
+    sort_by: date

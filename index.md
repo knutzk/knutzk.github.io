@@ -4,4 +4,10 @@ author_profile: true
 title: "Welcome!"
 ---
 
-Hi, I am a Postdoctoral Fellow in the group of Professor Morii at the Harvard University [Department of Physics](https://www.physics.harvard.edu/), affiliated with the [Laboratory for Particle Physics and Cosmology (LPPC)](https://lppc.physics.harvard.edu/). I am an experimental particle physicist working on the **ATLAS Experiment**, which records particle collisions at the world’s most powerful particle accelerator, the Large Hadron Collider (LHC). The home of both the ATLAS Experiment and the LHC accelerator is **CERN**, the European Center for Nuclear Research, near Geneva in Switzerland – which is where I conduct my research.
+Hi! I am an experimental particle physicist, and my goal is to gain a deeper understanding of the fundamental building blocks of the world. I work on the ATLAS experiment at the Large Hadron Collider (LHC), which is the most powerful particle accelerator in the world. The LHC is located in CERN, Geneva, Switzerland.
+
+
+I am currently researching the physics of the top quark, looking for long-lived exotic particles, and upgrading the ATLAS detector for the high-luminosity LHC, the next generation of accelerators. At the moment, I am a Postdoctoral Fellow in the [Department of Physics](https://www.physics.harvard.edu/) at Harvard University, working with Professor Morii.
+
+
+For more details on how I got here, please check out the [biography page](/bio/) or my [academic CV](/cv/).

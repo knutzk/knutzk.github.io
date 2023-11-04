@@ -1,0 +1,22 @@
+<!-- Determine which mentoring cateogry was given to this file,  -->
+<!-- then only list those mentorings. -->
+
+{% if include.mentoring_type %}
+    {% assign mentoring_to_list = site.mentorings reverse
+        | where: "men_type", include.mentoring_type 
+        | sort: "date" 
+        | reverse
+    %}
+{% else %}
+    {% assign mentoring_to_list = site.mentorings reverse
+        | sort: "date" 
+        | reverse
+    %}
+{% endif %}
+
+<ol>{% for men in mentoring_to_list %}
+<li>
+    <b>{{ men.name }}</b>{% if men.degree %}{% else %} ({{ men.period }}){% endif %}, {{ men.school }}{% if men.degree %}, {{ men.degree }}{% endif %}{% if men.comment %}, {{ men.comment }}{% endif %}<br>
+    {{ men.content }}
+</li>
+{% endfor %}</ol>
