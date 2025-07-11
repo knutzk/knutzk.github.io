@@ -1,0 +1,41 @@
+{%- comment -%}
+Required front matter fields:
+- title
+- author
+- pub_date (used for sorting and fallback display)
+
+Optional front matter fields:
+- reference (e.g. journal citation)
+- doi (for linking to journal)
+- eprint (arXiv ID)
+- reporturl, reportnumber (e.g. internal notes)
+- content (optional Markdown content below the citation)
+
+Example use in a page:
+{% include publication-entry.html pub=pub %}
+{%- endcomment -%}
+
+<h4>{{ pub.short }}</h4>
+
+<b>Authors:</b> {{ pub.author }}.<br>
+<b>Title:</b> <em>{{ pub.title }}</em>.<br>
+{%- if pub.reference -%}
+  <b>Reference:</b> {{ pub.reference }}.<br>
+{%- endif -%}
+
+{%- if pub.doi and pub.eprint -%}
+  <a href="https://doi.org/{{ pub.doi }}">DOI:{{ pub.doi }}</a> &#124;
+  <a href="https://arxiv.org/abs/{{ pub.eprint }}">arXiv:{{ pub.eprint }}</a>.<br>
+{%- elsif pub.doi -%}
+  <a href="https://doi.org/{{ pub.doi }}">DOI:{{ pub.doi }}</a>.<br>
+{%- elsif pub.eprint and pub.pub_date -%}
+  <a href="https://arxiv.org/abs/{{ pub.eprint }}">arXiv:{{ pub.eprint }}</a>&nbsp;({{ pub.pub_date | date: "%b %Y" }}).<br>
+{%- elsif pub.reporturl and pub.reportnumber and pub.pub_date -%}
+  <a href="{{ pub.reporturl }}">{{ pub.reportnumber }}</a>&nbsp;({{ pub.pub_date | date: "%b %Y" }}).<br>
+{%- endif -%}
+
+{%- if pub.content and include.render_content -%}
+  <div style="margin-top: 1.0em;">
+    {{ pub.content | markdownify }}
+  </div>
+{%- endif -%}

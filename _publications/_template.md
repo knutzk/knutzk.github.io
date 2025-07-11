@@ -1,0 +1,12 @@
+---
+title        : # title of the publication
+author       : # list of authors
+reference    : # full journal reference, or "Submitted ot XX"
+doi          : # DOI (without https://doi.org)
+eprint       : # eprint identifier
+reportnumber : # for notes, e.g. "ATL-PHYS-PUB-2023-030"
+reporturl    : # for notes, e.g. "https://cds.cern.ch/record/2872789"
+pub_date     : # for sorting, e.g., "2023-09-29"
+pub_category : # individual, ATLAS
+layout       : none
+---
