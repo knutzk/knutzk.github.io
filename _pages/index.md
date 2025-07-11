@@ -21,7 +21,6 @@ Based at **CERN** and affiliated with **Harvard University's** [Laboratory for P
   <a class="btn" href="/about/">About</a>
   <a class="btn" href="/research/">Research</a>
   <a class="btn" href="/publications/">Publications</a>
-  <a class="btn" href="/blog/">Blog</a>
   <a class="btn" href="/teaching/">Teaching</a>
 </div>
 
