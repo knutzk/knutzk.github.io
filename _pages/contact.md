@@ -7,26 +7,16 @@ permalink: /contact/
 layout: single
 ---
 
-I welcome inquiries about research collaborations, student opportunities, speaking engagements, and questions about experimental particle physics and machine learning. Please don't hesitate to reach out!
+I’m happy to hear from colleagues, students, and anyone interested in **experimental particle physics**, **machine learning**, or scientific collaboration. Please feel free to reach out — especially if you're looking to connect about:
 
-**knut.zoch [at] cern.ch**
+- **Research collaborations** in top-quark physics, event reconstruction, or new physics searches
+- **Student supervision** or research project opportunities
+- **Invited talks**, seminars, or teaching contributions
+- General questions about working at CERN, academic careers, or international fellowships
 
-For the fastest response, please use this email address for all inquiries. Please include a clear subject line and a brief context for your message.
+    📧 **knut.zoch [at] cern.ch**
 
-
-## Common Inquiries
-
-**Research Collaboration:** I'm always interested in discussing potential research collaborations, particularly in:
-- Top-quark physics and precision measurements
-- Machine learning applications in particle physics
-- Searches for new physics beyond the Standard Model
-- Anomaly detection and model-independent searches
-
-**Student Opportunities:** I supervise students at various levels. Feel free to reach out with your CV, interests, current institution, and potential timelines.
-
-**Speaking and Teaching:** I enjoy sharing my research and insights with diverse audiences. If you're interested in inviting me to speak at your event, please provide details about the event, preferred topics, and audience. Examples include: conference presentations, university seminars, workshops, and public lectures.
-
-**General Inquiries:** If you have questions about career paths in experimental particle physics, graduate school and postdoc applications, life and work at CERN, machine learning applications in science, or fellowship applications and international research opportunities, please reach out.
+This is the best way to reach me. A short message with your context or question is always appreciated.
 
 
 ## Institutional Affiliations
@@ -51,7 +41,6 @@ I am based at CERN for the majority of the year.
 - [InspireHEP](https://inspirehep.net/authors/1508982)
 - [ORCID](https://orcid.org/0000-0003-2138-6187)
 - [LinkedIn](https://www.linkedin.com/in/knutzk/)
-- [GitHub](https://github.com/knutzk)
 
 ---
 

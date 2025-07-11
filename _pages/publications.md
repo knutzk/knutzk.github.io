@@ -7,42 +7,37 @@ permalink: /publications/
 layout: single
 ---
 
-My research has resulted in numerous publications in leading physics journals, with particular focus on precision measurements, machine learning applications, and methodological innovations in experimental particle physics. As a member of the ATLAS Collaboration, I have co-signed over 600 publications while making direct contributions to key analyses and measurements.
+My work in experimental particle physics has contributed to a wide range of publications — from precision measurements within the ATLAS Collaboration to method-oriented studies on machine learning and anomaly detection. These papers reflect the diversity of my research, spanning collider phenomenology, event reconstruction, and statistical modeling.
 
-## Publication Overview
+As a member of the [ATLAS Collaboration](https://atlas.cern/), I have co-authored over **600 publications**, while contributing directly to a focused set of key analyses, particularly in **top-quark physics**, **event reconstruction**, and **searches for new physics**. Beyond ATLAS, I have published multiple **independent projects** on machine learning and data analysis techniques in high-energy physics.
 
-**Total Publications:** 600+ as ATLAS Collaboration member<br>
-**Direct Contributions:** ~10 publications with substantial personal involvement<br>
-**Independent Projects:** Multiple peer-reviewed publications outside the ATLAS collaboration<br>
-**Complete List:** [ORCID](https://orcid.org/0000-0003-2138-6187) &#124; [Google Scholar](https://scholar.google.com/citations?user=MJ0Q724AAAAJ&hl=en) &#124; [InspireHEP](https://inspirehep.net/authors/1508982)<br>
+📚 **Complete publication list** available via:
+[Google Scholar](https://scholar.google.com/citations?user=MJ0Q724AAAAJ&hl=en) &#124;
+[InspireHEP](https://inspirehep.net/authors/1508982) &#124;
+[ORCID](https://orcid.org/0000-0003-2138-6187).
 
 
 ## ATLAS Publications
 
-These publications are part of my work within the [ATLAS Collaboration](https://atlas.cern/), one of the largest international research efforts in particle physics. While many are broad collaborative results, I have made direct contributions to key analyses — particularly in top-quark physics and new physics searches.
+These papers are part of my collaborative work within the ATLAS experiment at CERN. While many are large-scale efforts, I’ve made **substantial personal contributions** to several key publications — especially those tied to my research on rare top-quark processes and searches for new physics signatures.
 
 {% assign atlas_pubs = site.publications | where: "pub_category", "ATLAS" | sort: "pub_date" | reverse %}
-
 {% for pub in atlas_pubs %}
   {% include publication-entry.html pub=pub render_content=false %}
 {% endfor %}
 
 
-## Other Publications
+## Independent and Methodological Work
 
-This section highlights publications where I played a leading role in developing new methods, exploring machine learning applications, or contributing to open datasets and software. These works reflect my broader research interests in data analysis and computational physics.
+This section features peer-reviewed publications and open resources I’ve led or co-led outside the ATLAS collaboration. These projects focus on **machine learning**, **event reconstruction**, **open datasets**, and **anomaly detection**, bridging physics with broader computational challenges.
 
 {% assign other_pubs = site.publications | where: "pub_category", "individual" | sort: "pub_date" | reverse %}
-
 {% for pub in other_pubs %}
   {% include publication-entry.html pub=pub render_content=false %}
 {% endfor %}
 
 ---
 
-*This publication record reflects a comprehensive research program spanning precision measurements, methodological innovations, and collaborative leadership in experimental particle physics.*
+*These publications illustrate the range and impact of my research — from high-precision collider measurements to innovative methodological work. For context on how these efforts fit into my broader program, see the [Research](/research/) page.*
 
-**Complete Publication List:** For the most current and comprehensive publication list, please visit one of the following pages: [ORCID](https://orcid.org/0000-0003-2138-6187) &#124; [Google Scholar](https://scholar.google.com/citations?user=MJ0Q724AAAAJ&hl=en) &#124; [InspireHEP](https://inspirehep.net/authors/1508982).
-
-**Collaboration Opportunities:** Interested in research collaboration or have questions about any of these publications? Please [contact me](/contact/) to discuss potential partnerships.
-
+**Interested in collaboration or have questions about a specific paper?** Feel free to [get in touch](/contact/).

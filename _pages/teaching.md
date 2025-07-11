@@ -7,8 +7,7 @@ permalink: /teaching/
 layout: single
 ---
 
-I’m passionate about teaching and mentoring — whether in the university classroom, in international workshops, or through one-on-one research supervision. My goal is to make complex ideas accessible, help students build real skills, and support their development as independent researchers.
-
+I’m passionate about making complex ideas accessible — whether through university courses, research supervision, or interdisciplinary workshops. My goal is to help students develop practical skills, gain confidence in applying them, and grow as independent researchers.
 
 ## University Teaching
 
@@ -27,42 +26,37 @@ Earlier in my academic career, I also supported a range of introductory lab and 
 
 ## Mentoring and Supervision
 
-I’ve mentored students at all levels — from undergraduate research interns to Ph.D. candidates — across institutions including Harvard, Geneva, and Göttingen. These projects often grew into long-term collaborations resulting in peer-reviewed publications or conference presentations.
+I’ve supervised student research at all levels, including undergraduate interns, master's students, and Ph.D. candidates — across institutions like Harvard, Geneva, and Göttingen.
 
-### Areas of student research:
-- Top-quark physics and rare production processes
-- Long-lived particle searches with displaced signatures
-- Machine learning for event reconstruction and regression
-- Unsupervised anomaly detection and dataset curation
+Project topics include:
+- Top-quark measurements and rare production modes
+- Machine learning for reconstruction and regression
+- Searches for long-lived particles and anomalies
 
-I support students not only in technical research but also in writing, presentations, and navigating career choices. My mentoring style emphasizes giving students ownership while providing close feedback, especially in the early stages of a project.
-
+Many of these collaborations led to peer-reviewed publications or conference presentations. I support students closely, especially in the early stages, while encouraging ownership of their projects. Several examples are described on the [research page](/research/).
 
 ## Interdisciplinary Workshops
 
-Since 2019, I’ve co-led machine learning workshops at interdisciplinary summer schools organized by the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/). These programs bring together students from a wide range of disciplines for a deep dive into data-driven methods.
+Since 2019, I’ve co-led machine learning workshops at international summer schools organized by the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/). These programs bring together students from a wide range of disciplines — from physics to political science — for an in-depth look at data-driven methods and their societal impact.
 
-**Recent and upcoming workshops:**
-- **2025:** Banz Castle, Germany (with students from the College of Europe)
+**Recent workshops:**
+- **2025:** Banz Castle, Germany (planned)
 - **2024:** Ljubljana, Slovenia
 - **2021:** Koppelsberg, Germany
-- **2019:** St. John’s College, Cambridge, UK
+- **2019:** St. John's College, Cambridge, UK
 
-These week-long courses combine interactive lectures, team projects, and open discussions on the societal impact of AI. Topics range from supervised learning to generative models and algorithmic fairness.
-
+Workshops combine interactive lectures, coding exercises, team projects, and open discussions — covering topics like supervised learning, generative models, and algorithmic fairness.
 
 ## Invited Lectures and Training
 
-In addition to university teaching, I’ve given invited lectures and contributed to training events for early-career researchers and large research collaborations.
+I also contribute to training events for research collaborations and early-career scientists.
 
-- **Deep Learning School – ERUM Data Hub** (Aachen, 2025)
-  *Transformers and Prompt Engineering* – Lecture and live coding session for scientific ML applications.
+- **ERUM Data Hub Deep Learning School** (2025, Aachen)
+  *Transformers and Prompt Engineering* — Lecture and live coding session on ML applications in science
 
-- **ATLAS Newcomers Lecture Series** (CERN, 2023)
-  *Top Quark Physics in ATLAS* – Introductory lecture for new collaborators.
-
-These events give me a chance to distill complex methods for broad audiences and share practical insights from real analysis work.
+- **ATLAS Newcomers Lecture Series** (2023, CERN)
+  *Top Quark Physics in ATLAS* — Introductory lecture for new collaborators
 
 ---
 
-*Teaching and mentoring are an essential part of my work. If you're interested in research supervision, educational collaboration, or bringing machine learning or particle physics into your course or event, feel free to [get in touch](/contact/).*
+*If you're interested in research supervision, teaching collaborations, or bringing particle physics or machine learning into your course or event, feel free to [get in touch](/contact/).*

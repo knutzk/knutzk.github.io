@@ -23,7 +23,7 @@ Rather than choosing between rigorous analysis and computational innovation, I b
 
 Top-quark measurements provide a window into electroweak interactions at the highest energy scales. My recent work focuses on rare production modes, such as top-quark pairs with additional heavy-flavor jets, which test QCD in new regimes and have revealed persistent discrepancies with theory.
 
-These measurements push experimental methods to their limits — requiring careful event reconstruction, advanced background modeling, and robust uncertainty evaluation.
+These measurements also provide valuable input for **Effective Field Theory (EFT)** interpretations, constraining new physics effects through a model-independent framework that complements direct searches.
 
 ### Machine Learning Applications
 
@@ -46,8 +46,7 @@ Working within the ATLAS Collaboration has shaped my scientific approach. I’ve
 - **Online Data Quality Coordinator** (2021–2023): Oversaw detector monitoring operations during LHC data taking, leading a rotating team of 120 contributors.
 - **Machine Learning Liaison** (2021–2023): Supported physics groups in applying ML techniques and helped shape ML education within the collaboration.
 
-These roles have given me a deep understanding of how to build and lead successful analysis efforts in large-scale scientific environments.
-
+I’ve also supervised students on a range of projects that combine physics and machine learning — from anomaly detection in jet data to reconstructing neutrinos with normalizing flows. For more on this aspect of my work, see the [teaching & mentoring page](/teaching/).
 
 ## Looking Ahead
 

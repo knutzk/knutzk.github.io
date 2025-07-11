@@ -9,13 +9,13 @@ header:
   image: "/assets/images/header.jpg"
 ---
 
-I'm a **particle physicist** on a mission to understand the building blocks of our universe — by pushing the frontiers of data analysis, precision measurement, and experimental discovery at the Large Hadron Collider.
+I'm a **particle physicist** based at CERN and working as a **Postdoctoral Fellow at Harvard University**, where I explore the building blocks of the universe through precision measurements and cutting-edge data analysis at the Large Hadron Collider.
 
-Based at **CERN** and affiliated with **Harvard University's** [Laboratory for Particle Physics and Cosmology (LPPC)](https://lppc.physics.harvard.edu/), I work with the [ATLAS experiment](https://atlas.cern/) to explore **top-quark physics**, develop **machine learning tools** for event reconstruction, and search for **new phenomena** beyond the Standard Model.
+As a member of the [ATLAS experiment](https://atlas.cern/), my research focuses on **top-quark physics**, **machine learning for data analysis**, and **searches for physics beyond the Standard Model**.
 
-🔬 **My work** spans precision measurements, ML-based reconstruction techniques, and collaborative leadership within one of the world's largest scientific experiments: ATLAS. I’ve contributed to rare top-quark measurements, operational data quality, and machine learning applications for challenging final states.
+🔬 I contribute to collaborative efforts within ATLAS, helping design analyses that probe rare processes and reveal subtle patterns in complex final states.
 
-💡 **Beyond the lab**, I enjoy mentoring and teaching — from hands-on tutorials in particle physics to interdisciplinary ML workshops. I’m passionate about making complex ideas accessible and supporting the next generation of researchers.
+💡 Outside the lab, I enjoy mentoring students and teaching across disciplines — especially at the intersection of physics and machine learning.
 
 <div style="text-align: center; margin-top: 1em; margin-bottom: 1em;">
   <a class="btn" href="/about/">About</a>
@@ -24,4 +24,4 @@ Based at **CERN** and affiliated with **Harvard University's** [Laboratory for P
   <a class="btn" href="/teaching/">Teaching</a>
 </div>
 
-📌 **Get in touch** via [email](/contact/) to discuss collaborations, student projects, or anything physics-related.
+📌 Curious to connect? Feel free to [get in touch](/contact/).
