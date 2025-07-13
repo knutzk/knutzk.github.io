@@ -63,5 +63,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
+breadcrumbs: true
 markdown: kramdown
 highlighter: rouge
