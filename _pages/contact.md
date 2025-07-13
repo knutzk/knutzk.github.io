@@ -14,7 +14,15 @@ I’m happy to hear from colleagues, students, and anyone interested in **experi
 - **Invited talks**, seminars, or teaching contributions
 - General questions about working at CERN, academic careers, or international fellowships
 
-    📧 **knut.zoch [at] cern.ch**
+    📧 <b><span id="email-link"></span></b>
+
+<script>
+  const user = "knut.zoch";
+  const domain = "cern.ch";
+  const email = `${user}@${domain}`;
+  const emailLink = `<a href="mailto:${email}">${email}</a>`;
+  document.getElementById("email-link").innerHTML = emailLink;
+</script>
 
 This is the best way to reach me. A short message with your context or question is always appreciated.
 
