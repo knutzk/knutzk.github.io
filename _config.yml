@@ -1,9 +1,6 @@
 title: "knutzoch.org"
 subtitle: "Website of Knut Zoch, Ph.D."
 description: "Experimental particle physicist at CERN | ATLAS | Top-quark physics, machine learning, and new physics searches"
-author:
-  name: "Knut Zoch"
-  email: "knut.zoch [at] cern.ch"
 
 url: "https://knutzoch.org"
 repository: "knutzk/knutzk.github.io"
@@ -23,9 +20,6 @@ author:
     - label: "Harvard University"
       icon: "fas fa-fw fa-building"
       url: "https://harvard.edu/"
-    - label: "knut.zoch [at] cern.ch"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:knut.zoch [at] cern.ch"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=MJ0Q724AAAAJ&hl=en"

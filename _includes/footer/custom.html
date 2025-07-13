@@ -1,0 +1,19 @@
+<script>
+(function () {
+    const user = "knut.zoch";
+    const domain = "cern.ch";
+    const email = `${user}@${domain}`;
+    const sidebar = document.getElementById("email-sidebar");
+    const contact = document.getElementById("email-contact");
+
+  if (sidebar) {
+    sidebar.href = `mailto:${email}`;
+    sidebar.innerHTML = `
+      <i class="fas fa-fw fa-envelope" aria-hidden="true"></i><span class="label">${email}</span>`;
+  }
+
+    if (contact) {
+    contact.innerHTML = `<a href="mailto:${email}">${email}</a>`;
+    }
+})();
+</script>
