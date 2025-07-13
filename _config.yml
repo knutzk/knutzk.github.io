@@ -37,7 +37,7 @@ collections:
   publications:
     output: false
     sort_by: date
-  research:
+  posts:
     output: true
     permalink: /blog/:title/
     sort_by: date
@@ -53,7 +53,7 @@ defaults:
       author_profile: true
   - scope:
       path: ""
-      type: research
+      type: posts
     values:
       read_time: true
 
