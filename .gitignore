@@ -1,3 +1,6 @@
+# Ignore drafts directory
+_drafts/
+
 # Vim
 *~
 *.sw[p_]
