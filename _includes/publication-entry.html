@@ -33,9 +33,3 @@ Example use in a page:
 {%- elsif pub.reporturl and pub.reportnumber and pub.pub_date -%}
   <a href="{{ pub.reporturl }}">{{ pub.reportnumber }}</a>&nbsp;({{ pub.pub_date | date: "%b %Y" }}).<br>
 {%- endif -%}
-
-{%- if pub.content and include.render_content -%}
-  <div style="margin-top: 1.0em;">
-    {{ pub.content | markdownify }}
-  </div>
-{%- endif -%}
