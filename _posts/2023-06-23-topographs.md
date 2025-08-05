@@ -7,7 +7,7 @@ image: "/assets/research/topographs-banner.jpg"
 image_alt: "Conceptual diagram of Topographs, a graph neural network approach for particle decay reconstruction"
 header:
   overlay_image: "/assets/research/topographs-banner.jpg"
-  teaser: "/assets/research/topographs-banner.jpg"
+  teaser: "/assets/teasers/topographs.jpg"
 ---
 
 In particle physics experiments at facilities like the Large Hadron Collider, high-energy collisions produce complex events with multiple particles that must be reconstructed from detector measurements. A crucial step in analyzing this data is **event reconstruction**: identifying the original, short-lived particles produced in a collision and tracing them back to their parent particles. This process is essential for making new discoveries and precisely measuring particle properties.
