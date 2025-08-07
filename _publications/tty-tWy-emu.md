@@ -9,3 +9,5 @@ pub_category : "ATLAS"
 pub_date     : "2020-09-07"
 layout       : none
 ---
+
+This work presents the first ATLAS measurement of combined tt̅ɣ and tWɣ production in the eμ channel, providing precise cross-sections for electroweak processes. [Read more about this measurement](/research/ttgamma/).

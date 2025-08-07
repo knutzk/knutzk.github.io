@@ -9,3 +9,5 @@ pub_category : "ATLAS"
 pub_date     : "2024-12-04"
 layout       : none
 ---
+
+This work presents the first dedicated ATLAS measurement of tt̄ + charm production, featuring a novel b/c-tagger for jet identification and providing crucial background insights for Higgs searches. [Read more about this measurement](/research/ttcharm/).

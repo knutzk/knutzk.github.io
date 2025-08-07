@@ -8,3 +8,5 @@ pub_category : "ATLAS"
 pub_date     : "2023-09-29"
 layout       : none
 ---
+
+This document outlines the roadmap for future combinations and Effective Field Theory interpretations of top+X processes in ATLAS, emphasizing enhanced sensitivity through combined analyses.

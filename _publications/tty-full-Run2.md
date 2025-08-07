@@ -9,3 +9,5 @@ pub_category : "ATLAS"
 pub_date     : "2019-05-03"
 layout       : none
 ---
+
+This work presents precision measurements of tt̅ɣ production cross-sections in leptonic final states using 13 TeV ATLAS data, providing insights into top quark electromagnetic interactions.
