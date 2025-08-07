@@ -40,7 +40,7 @@ Many of these collaborations led to peer-reviewed publications or conference pre
 Since 2019, I’ve co-led machine learning workshops at international summer schools organized by the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/). These programs bring together students from a wide range of disciplines — from physics to political science — for an in-depth look at data-driven methods and their societal impact.
 
 **Recent workshops:**
-- **2025:** Banz Castle, Germany (planned)
+- **2025:** Banz Castle, Germany
 - **2024:** Ljubljana, Slovenia
 - **2021:** Koppelsberg, Germany
 - **2019:** St. John's College, Cambridge, UK

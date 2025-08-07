@@ -7,6 +7,21 @@ seo:
   description: "Postdoctoral Fellow in experimental particle physics at Harvard University, working with CERN. Specializing in top-quark physics, machine learning, and searches for new phenomena with the ATLAS experiment."
 header:
   image: "/assets/images/header.jpg"
+feature_row:
+  - image_path: "/assets/teasers/ttcharm.jpg"
+    alt: "Top-quark production with charm quarks"
+    title: "Unraveling Top-Quark Production with Charm Quarks at the LHC"
+    excerpt: "The ATLAS Collaboration presents their first dedicated measurement of top-quark pair production in association with charm quarks, a crucial step towards understanding complex LHC events."
+    url: "/research/ttcharm/"
+  - image_path: "/assets/teasers/nu2flows.jpg"
+    alt: "Neutrino reconstruction with ν²-Flows"
+    title: "ν²-Flows: Doubling Down on Neutrino Reconstruction in Particle Physics"
+    excerpt: "Building on the success of ν-Flows, ν²-Flows extends our novel machine learning approach to precisely reconstruct multiple neutrinos in complex collider events."
+    url: "/research/nu2flows/"
+  - image_path: "/assets/teasers/topographs.jpg"
+    title: "Solving the Combinatorial Challenge in Particle Physics with Topographs"
+    excerpt: "A new graph neural network approach helps reconstruct how particles decay in the detector – and it works fast."
+    url: "/research/topographs/"
 ---
 
 I'm a **particle physicist** based at CERN and working as a **Postdoctoral Fellow at Harvard University**, where I explore the building blocks of the universe through precision measurements and cutting-edge data analysis at the Large Hadron Collider.
@@ -25,3 +40,7 @@ As a member of the [ATLAS experiment](https://atlas.cern/), my research focuses 
 </div>
 
 📌 Curious to connect? Feel free to [get in touch](/contact/).
+
+## My Latest Research
+
+{% include feature_row %}

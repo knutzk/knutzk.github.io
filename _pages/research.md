@@ -4,11 +4,14 @@ seo:
   title: "Research | Knut Zoch, Ph.D."
   description: "Experimental particle physics research focusing on top-quark physics, machine learning applications, and searches for new phenomena with the ATLAS experiment at CERN."
 permalink: /research/
-layout: single
+layout: archive
 ---
 
 My research explores the fundamental nature of matter and energy using the ATLAS experiment at the Large Hadron Collider. I focus on precision measurements involving the top quark, the development of machine learning techniques for particle physics, and searches for new phenomena beyond the Standard Model.
 
+**[↓ Jump to my latest research articles](#research-articles)**
+
+---
 
 ## Research Philosophy
 
@@ -19,24 +22,25 @@ Rather than choosing between rigorous analysis and computational innovation, I b
 
 ## Current Research Focus
 
-### Top-Quark Physics and Precision Measurements
+#### Top-Quark Physics and Precision Measurements
 
 Top-quark measurements provide a window into electroweak interactions at the highest energy scales. My recent work focuses on rare production modes, such as top-quark pairs with additional heavy-flavor jets, which test QCD in new regimes and have revealed persistent discrepancies with theory.
 
 These measurements also provide valuable input for **Effective Field Theory (EFT)** interpretations, constraining new physics effects through a model-independent framework that complements direct searches.
 
-### Machine Learning Applications
+#### Machine Learning Applications
 
 I develop machine learning techniques tailored for collider physics — from conditional normalizing flows that reconstruct invisible particles like neutrinos to graph neural networks for jet tagging and transformers for particle identification.
 
 A central theme is **physics-informed ML**: models that respect detector geometry, symmetry constraints, and physical priors, while providing interpretable and reliable outputs. These tools improve statistical precision and open new avenues for reconstruction and anomaly detection.
 
-### Searches for New Physics
+#### Searches for New Physics
 
 Much of my search work focuses on model-independent approaches — particularly anomaly detection and long-lived particle signatures. These searches often challenge conventional triggers and reconstruction tools, requiring new techniques from both the detector and algorithmic side.
 
 I'm especially interested in signatures that could go unnoticed in traditional searches: displaced vertices, unusual jet substructure, or unexpected correlations in final states.
 
+---
 
 ## Collaboration and Leadership
 
@@ -48,16 +52,16 @@ Working within the ATLAS Collaboration has shaped my scientific approach. I’ve
 
 I’ve also supervised students on a range of projects that combine physics and machine learning — from anomaly detection in jet data to reconstructing neutrinos with normalizing flows. For more on this aspect of my work, see the [teaching & mentoring page](/teaching/).
 
-## Looking Ahead
-
-The High-Luminosity LHC will open new windows into rare processes, allowing measurements and searches that are out of reach today. I'm particularly interested in:
-
-- **Electroweak precision tests** using high-statistics datasets
-- **Rare final states** sensitive to new physics at the intensity frontier
-- **Machine learning at scale** by embedding physics into the models
-
 ---
 
-*My research program brings together precision physics, methodological innovation, and collaborative coordination to explore the fundamental building blocks of the universe. I aim to contribute to discoveries that expand our understanding of particle physics while building a strong, inclusive research environment for the next generation of scientists.*
+## Research Articles
 
-**Interested in collaboration or learning more?** Feel free to [get in touch](/contact/).
+{% assign blog_posts = site.posts | sort: "date" | reverse %}
+
+<div class="entries-grid">
+  {% for post in blog_posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+
+<br>

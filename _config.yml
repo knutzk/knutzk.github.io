@@ -39,7 +39,7 @@ collections:
     sort_by: date
   posts:
     output: true
-    permalink: /blog/:title/
+    permalink: /research/:title/
     sort_by: date
 
 include:
