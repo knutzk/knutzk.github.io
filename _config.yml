@@ -1,12 +1,13 @@
 title: "knutzoch.org"
 subtitle: "Website of Knut Zoch, Ph.D."
-description: "Experimental particle physicist at CERN | ATLAS | Top-quark physics, machine learning, and new physics searches"
+description: "Experimental particle physicist at Harvard University and CERN with the ATLAS collaboration, specializing in top-quark physics, machine learning, and searches for new physics phenomena"
+keywords: "particle physics, CERN, ATLAS, top quark, machine learning, experimental physics, Harvard University, neutrino reconstruction, anomaly detection"
 
 url: "https://knutzoch.org"
 repository: "knutzk/knutzk.github.io"
 baseurl: ""
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "contrast"
 
 locale: "en-US"
@@ -66,3 +67,6 @@ plugins:
 breadcrumbs: true
 markdown: kramdown
 highlighter: rouge
+
+sass:
+  style: compressed
