@@ -10,4 +10,4 @@ pub_date     : "2024-01-19"
 layout       : none
 ---
 
-This work introduces PC-JeDi, a diffusion model for generating particle clouds in high-energy physics, enabling improved simulation and analysis of jet formation and particle interactions.
+PC-JeDi introduces a diffusion model for generating particle clouds in high-energy physics, enabling improved simulation and analysis of jet formation and particle interactions.

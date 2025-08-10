@@ -8,4 +8,4 @@ pub_date     : "2024-08-24"
 layout       : none
 ---
 
-This work introduces RODEM Jet Datasets, a comprehensive collection of simulated jet events for developing and benchmarking machine learning algorithms in particle physics research.
+RODEM Jet Datasets provides a comprehensive collection of simulated jet events for developing and benchmarking machine learning algorithms in particle physics research.

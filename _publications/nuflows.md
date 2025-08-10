@@ -10,4 +10,4 @@ pub_date     : "2023-06-16"
 layout       : none
 ---
 
-This work introduces ν‐Flows, a machine learning framework using conditional normalizing flows for neutrino reconstruction, providing probabilistic estimates that enhance precision in top quark analyses. [Read more about ν‐Flows](/research/nuflows/).
+ν‐Flows introduces a machine learning framework using conditional normalizing flows for neutrino reconstruction, providing probabilistic estimates that enhance precision in top quark analyses. [Read more about ν‐Flows](/research/nuflows/).

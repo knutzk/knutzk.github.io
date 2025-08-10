@@ -10,4 +10,4 @@ pub_date     : "2025-02-13"
 layout       : none
 ---
 
-This work presents a weakly supervised anomaly detection approach for identifying potential new physics signals in dijet events, using machine learning to search for deviations from Standard Model predictions.
+A weakly supervised anomaly detection approach identifies potential new physics signals in dijet events, using machine learning to search for deviations from Standard Model predictions.

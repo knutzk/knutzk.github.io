@@ -10,4 +10,4 @@ pub_date     : "2023-06-23"
 layout       : none
 ---
 
-In this work, we introduce Topographs, a graph neural network approach solving combinatorial challenges in event reconstruction with linear scaling, improving efficiency from 72.7% to 81.7%. [Read more about Topographs](/research/topographs/).
+Topographs introduces a graph neural network approach solving combinatorial challenges in event reconstruction with linear scaling, improving efficiency from 72.7% to 81.7%. [Read more about Topographs](/research/topographs/).

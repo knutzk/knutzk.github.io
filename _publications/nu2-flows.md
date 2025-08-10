@@ -10,4 +10,4 @@ pub_date     : "2024-01-11"
 layout       : none
 ---
 
-This work extends ν-Flows to reconstruct multiple neutrinos in complex collider events, significantly enhancing speed and accuracy for dileptonic final states in top quark analyses. [Read more about ν²-Flows](/research/nu2flows/).
+ν²-Flows extends ν-Flows to reconstruct multiple neutrinos in complex collider events, significantly enhancing speed and accuracy for dileptonic final states in top quark analyses. [Read more about ν²-Flows](/research/nu2flows/).

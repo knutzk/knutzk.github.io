@@ -10,4 +10,4 @@ pub_date     : "2019-04-29"
 layout       : none
 ---
 
-This work presents the first measurement of tt̅Z and tt̅W cross-sections at 13 TeV using ATLAS data, focusing on leptonic decays to test Standard Model predictions and electroweak interactions.
+First measurement of tt̅Z and tt̅W cross-sections at 13 TeV using ATLAS data, focusing on leptonic decays to test Standard Model predictions and electroweak interactions.
