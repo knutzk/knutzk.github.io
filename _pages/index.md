@@ -4,28 +4,13 @@ layout: single-skip-h1
 permalink: /
 header:
   image: "/assets/images/header.jpg"
-feature_row:
-  - image_path: "/assets/teasers/ttcharm.jpg"
-    alt: "Top-quark production with charm quarks"
-    title: "Unraveling Top-Quark Production with Charm Quarks at the LHC"
-    excerpt: "The ATLAS Collaboration presents their first dedicated measurement of top-quark pair production in association with charm quarks, a crucial step towards understanding complex LHC events."
-    url: "/research/ttcharm/"
-  - image_path: "/assets/teasers/nu2flows.jpg"
-    alt: "Neutrino reconstruction with ν²-Flows"
-    title: "ν²-Flows: Doubling Down on Neutrino Reconstruction in Particle Physics"
-    excerpt: "Building on the success of ν-Flows, ν²-Flows extends our novel machine learning approach to precisely reconstruct multiple neutrinos in complex collider events."
-    url: "/research/nu2flows/"
-  - image_path: "/assets/teasers/topographs.jpg"
-    title: "Solving the Combinatorial Challenge in Particle Physics with Topographs"
-    excerpt: "A new graph neural network approach helps reconstruct how particles decay in the detector – and it works fast."
-    url: "/research/topographs/"
 ---
 
 # Knut Zoch – Particle Physicist at Harvard and CERN
 
 I'm a **particle physicist at Harvard University**, working at CERN with the Large Hadron Collider (LHC) — the world’s most powerful particle accelerator. At the LHC, protons collide at unprecedented energies, creating new particles and giving us a glimpse into the fundamental laws of nature. You can read more about my journey into physics on the [about page](/about/).
 
-Within this environment, I am part of the **ATLAS experiment**, one of the major detectors studying these collisions. My [research](/research/) focuses on **top-quark physics**, **machine learning for data analysis**, and **searches for physics beyond the Standard Model**. The top quark, the heaviest known elementary particle, plays a special role in our understanding of nature. By studying how it is produced and how it behaves, we can test the limits of today’s theories and search for new phenomena. The page also features articles highlighting aspects of my research in more detail.
+Within this environment, I am part of the **ATLAS experiment**, one of the major detectors studying these collisions. My [research](/research/) focuses on **top-quark physics**, **machine learning for data analysis**, and **searches for physics beyond the Standard Model**. The top quark, the heaviest known elementary particle, plays a special role in our understanding of nature. By studying how it is produced and how it behaves, we can test the limits of today’s theories and search for new phenomena. The page is also where I regularly share [updates and articles about my work](/research/#research-articles).
 
 Within ATLAS, I work with colleagues to design analyses that probe rare processes and uncover subtle patterns in the data. My projects have included studies of collisions that produce extra heavy quarks as well as the development of new methods that help us interpret the huge amount of information recorded by the detectors. More details can be found on my [publications page](/publications/).
 
@@ -40,8 +25,4 @@ Outside the lab, I enjoy **teaching and mentoring**. I have supervised students 
   <a class="btn" href="/teaching/">Teaching</a>
 </div>
 
-📌 Curious to connect? Feel free to [get in touch](/contact/).
-
-## My Latest Research
-
-{% include feature_row %}
+> 📌 *Curious to connect? Feel free to [get in touch](/contact/)*.
