@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publications in Physics & ML"
 description: "A selection of Knut Zoch’s publications in particle physics and machine learning, including ATLAS results and interdisciplinary collaborations."
 permalink: /publications/
 layout: single
