@@ -25,8 +25,9 @@
         </li>
         <span class="sep">{{ site.data.ui-text[site.locale].breadcrumb_separator | default: "/" }}</span>
       {% endif %}
+      <!-- Use crumb instead of page.title, even for last element -->
       {% if forloop.last %}
-        <li class="current"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</li>
+        <li class="current"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ crumb | url_decode | replace: '-', ' ' | capitalize }}</li>
       {% else %}
         {% assign i = i | plus: 1 %}
         <!-- Added trailing slash to breadcrumb href -->
