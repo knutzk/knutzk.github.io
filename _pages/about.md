@@ -5,7 +5,7 @@ permalink: /about/
 layout: single
 ---
 
-I'm an **experimental particle physicist** working at the intersection of fundamental science and modern data analysis. From early curiosity to full-time collider research, my path has taken me from Göttingen to Geneva — and now to CERN as a Postdoctoral Fellow with Harvard University. Along the way, I have been motivated by a fascination with the building blocks of matter and by the challenge of developing new methods to study them.
+I'm an **experimental particle physicist** working at the intersection of fundamental science and modern data analysis. From early curiosity to full-time collider research, my path has taken me from Göttingen to Geneva — and now to CERN as a Postdoctoral Fellow with Harvard University. During this journey, I have been motivated by a fascination with the building blocks of matter and by the challenge of developing new methods to study them.
 
 ## Building a Career in Particle Physics
 
