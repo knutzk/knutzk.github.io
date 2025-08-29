@@ -1,6 +1,6 @@
 ---
 title: "Knut Zoch | Particle Physics & Machine Learning"
-layout: custom-home
+layout: single-skip-h1
 permalink: /
 header:
   image: "/assets/images/header.jpg"
