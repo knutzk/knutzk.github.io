@@ -1,8 +1,6 @@
 ---
 title: "Contact"
-seo:
-  title: "Contact | Knut Zoch, Ph.D."
-  description: "Get in touch with Knut Zoch for research collaborations, student opportunities, or questions about experimental particle physics and machine learning."
+description: "Get in touch with Knut Zoch, particle physicist at Harvard University and CERN. Contact details and links for research and collaboration."
 permalink: /contact/
 layout: single
 ---

@@ -1,8 +1,6 @@
 ---
 title: "Teaching & Mentoring"
-seo:
-  title: "Teaching & Mentoring | Knut Zoch, Ph.D."
-  description: "Teaching experience in particle physics and machine learning, with extensive student mentoring and contributions to interdisciplinary education."
+description: "Knut Zoch’s teaching and mentoring in particle physics and machine learning, from Harvard and CERN to interdisciplinary summer schools."
 permalink: /teaching/
 layout: single
 ---

@@ -1,10 +1,7 @@
 ---
-title: false
-layout: single
+title: "Knut Zoch | Particle Physics & Machine Learning"
+layout: custom-home
 permalink: /
-seo:
-  title: "Knut Zoch, Ph.D. | Particle Physicist at CERN"
-  description: "Postdoctoral Fellow in experimental particle physics at Harvard University, working with CERN. Specializing in top-quark physics, machine learning, and searches for new phenomena with the ATLAS experiment."
 header:
   image: "/assets/images/header.jpg"
 feature_row:
@@ -24,15 +21,17 @@ feature_row:
     url: "/research/topographs/"
 ---
 
-# Welcome!
+# Knut Zoch – Particle Physicist at Harvard and CERN
 
-I'm a **particle physicist** based at CERN and working as a **Postdoctoral Fellow at Harvard University**, where I explore the building blocks of the universe through precision measurements and cutting-edge data analysis at the Large Hadron Collider.
+I'm a **particle physicist at Harvard University**, working at CERN with the Large Hadron Collider (LHC) — the world’s most powerful particle accelerator. At the LHC, protons collide at unprecedented energies, creating new particles and giving us a glimpse into the fundamental laws of nature. You can read more about my journey into physics on the [about page](/about/).
 
-As a member of the [ATLAS experiment](https://atlas.cern/), my research focuses on **top-quark physics**, **machine learning for data analysis**, and **searches for physics beyond the Standard Model**.
+Within this environment, I am part of the **ATLAS experiment**, one of the major detectors studying these collisions. My [research](/research/) focuses on **top-quark physics**, **machine learning for data analysis**, and **searches for physics beyond the Standard Model**. The top quark, the heaviest known elementary particle, plays a special role in our understanding of nature. By studying how it is produced and how it behaves, we can test the limits of today’s theories and search for new phenomena. The page also features articles highlighting aspects of my research in more detail.
 
-🔬 I contribute to collaborative efforts within ATLAS, helping design analyses that probe rare processes and reveal subtle patterns in complex final states.
+Within ATLAS, I work with colleagues to design analyses that probe rare processes and uncover subtle patterns in the data. My projects have included studies of collisions that produce extra heavy quarks as well as the development of new methods that help us interpret the huge amount of information recorded by the detectors. More details can be found on my [publications page](/publications/).
 
-💡 Outside the lab, I enjoy mentoring students and teaching across disciplines — especially at the intersection of physics and machine learning.
+A strong theme in my work is the use of **machine learning**. Modern algorithms help us recognize hidden structures in data that would be hard to detect otherwise. I have applied these techniques to topics ranging from identifying invisible particles to spotting unusual events that could hint at new physics. For me, combining physics and machine learning is one of the most exciting ways to push science forward.
+
+Outside the lab, I enjoy **teaching and mentoring**. I have supervised students on research projects in physics and machine learning, supporting them as they grow into independent researchers. I also co-lead **interdisciplinary machine learning courses** for the German Academic Scholarship Foundation. These courses bring together students from the sciences and humanities to explore algorithms, real-world applications, and the societal dimensions of AI. You can read more about my approach to supervision and outreach on the [teaching page](/teaching/).
 
 <div style="text-align: center; margin-top: 1em; margin-bottom: 1em;">
   <a class="btn" href="/about/">About</a>

@@ -1,8 +1,6 @@
 ---
 title: "Research Program"
-seo:
-  title: "Research | Knut Zoch, Ph.D."
-  description: "Experimental particle physics research focusing on top-quark physics, machine learning applications, and searches for new phenomena with the ATLAS experiment at CERN."
+description: "Explore Knut Zoch’s research in experimental particle physics at Harvard and CERN, with a focus on top quarks, ATLAS, and machine learning."
 permalink: /research/
 layout: archive
 ---

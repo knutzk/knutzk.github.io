@@ -1,8 +1,6 @@
 ---
 title: "Publications"
-seo:
-  title: "Publications | Knut Zoch, Ph.D."
-  description: "Publication list including ATLAS collaboration papers, methodological innovations, and contributions to particle physics research."
+description: "A selection of Knut Zoch’s publications in particle physics and machine learning, including ATLAS results and interdisciplinary collaborations."
 permalink: /publications/
 layout: single
 ---
