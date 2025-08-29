@@ -1,6 +1,8 @@
-title: "knutzoch.org"
-subtitle: "Website of Knut Zoch, Ph.D."
-description: "Experimental particle physicist at Harvard University and CERN with the ATLAS collaboration, specializing in top-quark physics, machine learning, and searches for new physics phenomena"
+title: "Knut Zoch, Ph.D. – Experimental Particle Physics & Machine Learning"
+masthead_title: "Knut Zoch, Ph.D."
+subtitle: "Experimental Particle Physics & Machine Learning"
+copyright: "Knut Zoch"
+description: "Experimental particle physicist at Harvard University and CERN with the ATLAS collaboration, specializing in top-quark physics and advancing research through machine learning methods."
 keywords: "particle physics, CERN, ATLAS, top quark, machine learning, experimental physics, Harvard University, neutrino reconstruction, anomaly detection"
 
 url: "https://knutzoch.org"
@@ -16,7 +18,8 @@ timezone: "Europe/Zurich"
 author:
   name: "Knut Zoch, Ph.D."
   avatar: "/assets/images/avatar.jpg"
-  bio: "Postdoctoral Fellow in Experimental Particle Physics at Harvard University"
+  bio: "Experimental particle physicist at Harvard University, combining CERN/ATLAS research with machine learning."
+  location: "Geneva, Switzerland"
   links:
     - label: "Harvard University"
       icon: "fas fa-fw fa-building"

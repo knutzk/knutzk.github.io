@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: false
 layout: single
 permalink: /
 seo:
@@ -23,6 +23,8 @@ feature_row:
     excerpt: "A new graph neural network approach helps reconstruct how particles decay in the detector – and it works fast."
     url: "/research/topographs/"
 ---
+
+# Welcome!
 
 I'm a **particle physicist** based at CERN and working as a **Postdoctoral Fellow at Harvard University**, where I explore the building blocks of the universe through precision measurements and cutting-edge data analysis at the Large Hadron Collider.
 
