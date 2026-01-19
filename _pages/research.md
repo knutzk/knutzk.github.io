@@ -1,6 +1,6 @@
 ---
 title: "Particle Physics & ML Research"
-description: "Explore Knut Zoch’s research in experimental particle physics at Harvard and CERN, with a focus on top quarks, ATLAS, and machine learning."
+description: "Explore Knut Zoch’s research in experimental particle physics at CERN, with a focus on top quarks, ATLAS, and machine learning."
 permalink: /research/
 layout: archive
 ---

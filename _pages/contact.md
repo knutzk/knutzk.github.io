@@ -1,6 +1,6 @@
 ---
 title: "Get in Touch for Research & Collaboration"
-description: "Get in touch with Knut Zoch, particle physicist at Harvard University and CERN. Contact details and links for research and collaboration."
+description: "Get in touch with Knut Zoch, particle physicist at CERN. Contact details and links for research and collaboration."
 permalink: /contact/
 layout: single
 ---
@@ -19,18 +19,9 @@ This is the best way to reach me. A short message with your context or question 
 
 ## Institutional Affiliations
 
-**Primary:**<br>
-Laboratory for Particle Physics and Cosmology<br>
-Department of Physics<br>
-Harvard University<br>
-Cambridge, MA 02138, USA<br>
-
-**CERN Office (Research Location):**<br>
 CERN, Office 42/2-009<br>
 CH-1211 Geneva 23<br>
 Switzerland<br>
-
-I am based at CERN for the majority of the year.
 
 
 ## Professional Profiles

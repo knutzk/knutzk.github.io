@@ -1,11 +1,11 @@
 ---
 title: "About Me – My Particle Physics Journey"
-description: "Knut Zoch’s journey in experimental particle physics — from Göttingen to Harvard via Geneva — supported by fellowships and international collaborations."
+description: "Knut Zoch’s journey in experimental particle physics — from Göttingen to CERN via Geneva and Harvard — supported by fellowships and international collaborations."
 permalink: /about/
 layout: single
 ---
 
-I'm an **experimental particle physicist** working at the intersection of fundamental science and modern data analysis. From early curiosity to full-time collider research, my path has taken me from Göttingen to Geneva — and now to CERN as a Postdoctoral Fellow with Harvard University. During this journey, I have been motivated by a fascination with the building blocks of matter and by the challenge of developing new methods to study them.
+I'm an **experimental particle physicist** working at the intersection of fundamental science and modern data analysis. From early curiosity to full-time collider research, my path has taken me from Göttingen to Geneva, Harvard University and now CERN. During this journey, I have been motivated by a fascination with the building blocks of matter and by the challenge of developing new methods to study them.
 
 ## Building a Career in Particle Physics
 
@@ -13,7 +13,9 @@ I began my academic career at the **University of Göttingen**, where I discover
 
 In 2021, I moved to the University of Geneva as a **Feodor Lynen Fellow** of the **Humboldt Foundation** to pursue new directions in machine learning and collider physics. There I expanded my research toolkit with modern ML techniques, applying them to challenges such as anomaly detection in jets and neutrino reconstruction. This period deepened my conviction that physics and data science enrich one another, and that cross-disciplinary approaches are vital for the next generation of discoveries.
 
-Today, I am a Postdoctoral Fellow at **Harvard University**, working at CERN on the ATLAS experiment. My research contributes to precision measurements, machine-learning–based data analysis, and searches for new physics. It spans from detailed studies of top-quark production to broader questions of methodology and interpretation, always with the goal of advancing both the science and the tools we use to explore it.
+In 2023, I joined **Harvard University** as a Postdoctoral Fellow, moving back to collider data analysis. During this time, I focused on precision measurements in the top-quark sector and worked on searches for new physics. I also helped shape the ATLAS Top+X physics program, coordinating efforts to test the Standard Model in rare and complex final states.
+
+As of January 2026, I am a **Research Fellow at CERN**, building on this experience while exploring new directions. I will leverage my expertise in precision measurements to focus on broader questions of methodology and interpretation, always with the goal of advancing both the science and the tools we use to explore it.
 
 ## Collaboration, Communication, and Mentoring
 

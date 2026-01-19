@@ -6,9 +6,9 @@ header:
   image: "/assets/images/header.jpg"
 ---
 
-# Knut Zoch – Particle Physicist at Harvard and CERN
+# Knut Zoch – Particle Physicist at CERN
 
-I'm a **particle physicist at Harvard University**, working at CERN with the Large Hadron Collider (LHC) — the world’s most powerful particle accelerator. At the LHC, protons collide at unprecedented energies, creating new particles and giving us a glimpse into the fundamental laws of nature. You can read more about my journey into physics on the [about page](/about/).
+I'm a **particle physicist at CERN**, working with the Large Hadron Collider (LHC) — the world’s most powerful particle accelerator. At the LHC, protons collide at unprecedented energies, creating new particles and giving us a glimpse into the fundamental laws of nature. You can read more about my journey into physics on the [about page](/about/).
 
 Within this environment, I am part of the **ATLAS experiment**, one of the major detectors studying these collisions. My [research](/research/) focuses on **top-quark physics**, **machine learning for data analysis**, and **searches for physics beyond the Standard Model**. The top quark, the heaviest known elementary particle, plays a special role in our understanding of nature. By studying how it is produced and how it behaves, we can test the limits of today’s theories and search for new phenomena. The page is also where I regularly share [updates and articles about my work](/research/#research-articles).
 
