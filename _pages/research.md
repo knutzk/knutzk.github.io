@@ -46,7 +46,7 @@ Working within the ATLAS Collaboration has shaped my scientific approach. I’ve
 
 - **Top Quarks + X convener** (2023–2025): Coordinated precision measurements and new-physics searches involving over 140 collaborators across 20 analyses.
 - **Online Data Quality Coordinator** (2021–2023): Oversaw detector monitoring operations during LHC data taking, leading a rotating team of 120 contributors.
-- **Machine Learning Liaison** (2021–2023): Supported physics groups in applying ML techniques and helped shape ML education within the collaboration.
+- **Machine Learning Liaison** (2021–2023): Supported the top-quark physics group in applying ML techniques and helped shape ML education within the collaboration.
 
 I’ve also supervised students on a range of projects that combine physics and machine learning — from anomaly detection in jet data to reconstructing neutrinos with normalizing flows. For more on this aspect of my work, see the [teaching & mentoring page](/teaching/).
 

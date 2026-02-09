@@ -25,9 +25,6 @@ author:
   bio: "Experimental particle physicist at CERN, combining ATLAS research with machine learning."
   location: "Geneva, Switzerland"
   links:
-    - label: "CERN"
-      icon: "fas fa-fw fa-building"
-      url: "https://home.cern/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=MJ0Q724AAAAJ&hl=en"
