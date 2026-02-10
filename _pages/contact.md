@@ -17,10 +17,13 @@ I’m happy to hear from colleagues, students, and anyone interested in **experi
 This is the best way to reach me. A short message with your context or question is always appreciated.
 
 
-## Institutional Affiliations
+## Institutional Affiliation
 
-CERN, Office 42/2-009<br>
-CH-1211 Geneva 23<br>
+**Dr. Knut Zoch** (he/him)<br>
+Research Fellow, Experimental Physics<br>
+
+**CERN**<br>
+1211 Geneva 23<br>
 Switzerland<br>
 
 
