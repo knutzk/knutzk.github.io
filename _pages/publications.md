@@ -7,7 +7,7 @@ layout: single
 
 My work in experimental particle physics has contributed to a wide range of publications — from precision measurements within the ATLAS Collaboration to method-oriented studies on machine learning and anomaly detection. These papers reflect the diversity of my research, spanning collider phenomenology, event reconstruction, and statistical modeling.
 
-As a member of the [ATLAS Collaboration](https://atlas.cern/), I have co-authored over **600 publications**, while contributing directly to a focused set of key analyses, particularly in top-quark physics, event reconstruction, and searches for new physics. Beyond ATLAS, I have published multiple **independent projects** on machine learning and data analysis techniques in high-energy physics.
+As a member of the [ATLAS Collaboration](https://atlas.cern/), I have co-authored over **700 publications**, while contributing directly to a focused set of key analyses, particularly in top-quark physics, event reconstruction, and searches for new physics. Beyond ATLAS, I have published multiple **independent projects** on machine learning and data analysis techniques in high-energy physics.
 
 📚 **Complete publication list** available via:
 [Google Scholar](https://scholar.google.com/citations?user=MJ0Q724AAAAJ&hl=en) &#124;
@@ -21,7 +21,7 @@ These papers are part of my collaborative work within the ATLAS experiment at CE
 
 {% assign atlas_pubs = site.publications | where: "pub_category", "ATLAS" | sort: "pub_date" | reverse %}
 {% for pub in atlas_pubs %}
-  {% include publication-entry.html pub=pub render_content=false %}
+  {% include publication-entry.html pub=pub %}
 {% endfor %}
 
 
@@ -31,7 +31,7 @@ This section features peer-reviewed publications and open resources I’ve led o
 
 {% assign other_pubs = site.publications | where: "pub_category", "individual" | sort: "pub_date" | reverse %}
 {% for pub in other_pubs %}
-  {% include publication-entry.html pub=pub render_content=false %}
+  {% include publication-entry.html pub=pub %}
 {% endfor %}
 
 ---

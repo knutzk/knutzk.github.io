@@ -1,0 +1,107 @@
+.publication-entry__footer {
+    position: relative;
+    margin-top: 1rem;
+    min-height: 1.5rem;
+}
+
+.publication-entry__links {
+    position: absolute;
+    top: -0.1rem;
+    right: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    z-index: 5;
+}
+
+.publication-entry__links .btn {
+    margin-right: 0 !important;
+    font-size: 0.65rem !important;
+    padding: 0.3em 0.7em !important;
+    border-radius: 3px !important;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+
+.publication-entry__details summary {
+    list-style: none;
+    cursor: pointer;
+    outline: none;
+    width: max-content;
+}
+
+.publication-entry__details summary::-webkit-details-marker {
+    display: none;
+}
+
+.publication-entry__toggle-text {
+    font-size: 0.75rem;
+    color: #6a737d;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transition: color 0.2s ease;
+}
+
+.publication-entry__toggle-text:hover {
+    color: #9f1006;
+}
+
+.publication-entry__toggle-text::before {
+    content: "▸";
+    font-size: 0.8em;
+    transition: transform 0.2s ease;
+    display: inline-block;
+}
+
+.publication-entry__details[open] .publication-entry__toggle-text::before {
+    transform: rotate(90deg);
+}
+
+.publication-entry__meta {
+    display: block;
+    width: 100%;
+    margin-top: 0.75rem;
+    padding: 0.75rem 0 0.75rem 1rem;
+    border-left: 3px solid #9f1006;
+    line-height: 1.6;
+    font-size: 0.85rem;
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+}
+
+.publication-entry__meta-title {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.35rem;
+}
+
+.publication-entry__meta-authors {
+    display: block;
+    margin-bottom: 0.35rem;
+}
+
+.author--highlight {
+    font-weight: 700;
+    color: #1a1a1b;
+    border-bottom: 1px dotted rgba(159, 16, 6, 0.3);
+}
+
+.publication-entry__meta-ref {
+    display: block;
+    font-size: 0.82rem;
+    margin-bottom: 0.15rem;
+}
+
+.publication-entry__meta-label {
+    color: #6a737d;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-right: 0.25rem;
+    letter-spacing: 0.02em;
+}
