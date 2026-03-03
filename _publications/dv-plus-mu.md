@@ -10,4 +10,4 @@ pub_category : "ATLAS"
 layout       : none
 ---
 
-Search for massive, long-lived particles that produce displaced vertices and displaced muons, using data collected with ATLAS between 2022 and 2024 (LHC Run 3).
+Search for massive, long-lived particles that produce displaced vertices and displaced muons, using data collected with ATLAS between 2022 and 2024 (LHC Run 3). [Read more about this search](/research/llp-search/).
