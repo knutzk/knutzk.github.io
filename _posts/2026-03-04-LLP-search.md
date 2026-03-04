@@ -88,4 +88,4 @@ By targeting the *displaced* and the *invisible*, we are systematically closing 
 
 **Author:** ATLAS Collaboration<br>
 **Title:** *Search for massive, long-lived particles in events with displaced vertices and displaced muons in pp collisions at an energy of 13.6 TeV with the ATLAS experiment*<br>
-**Reference:** Submitted to *Phys. Lett. B*. [[arXiv:2603.03100](https://arxiv.org/abs/2603.03100)].
+**Reference:** Submitted to *Phys. Lett. B*. [[arXiv:2603.01991](https://arxiv.org/abs/2603.01991)].
