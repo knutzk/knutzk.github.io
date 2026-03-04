@@ -18,11 +18,42 @@ A strong theme in my work is the use of **machine learning**. Modern algorithms 
 
 Outside the lab, I enjoy **teaching and mentoring**. I have supervised students on research projects in physics and machine learning, supporting them as they grow into independent researchers. I also co-lead **interdisciplinary machine learning courses** for the German Academic Scholarship Foundation. These courses bring together students from the sciences and humanities to explore algorithms, real-world applications, and the societal dimensions of AI. You can read more about my approach to supervision and outreach on the [teaching page](/teaching/).
 
-<div style="text-align: center; margin-top: 1em; margin-bottom: 1em;">
-  <a class="btn" href="/about/">About</a>
-  <a class="btn" href="/research/">Research</a>
-  <a class="btn" href="/publications/">Publications</a>
-  <a class="btn" href="/teaching/">Teaching</a>
+
+---
+
+### Recent Research Articles
+
+<div class="research-article-list">
+  {% assign latest_posts = site.posts | sort: "date" | reverse %}
+  {% for post in latest_posts limit:3 %}
+    <article class="research-article-item">
+      {% if post.header.teaser %}
+      <div class="research-article-item__image">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}">
+        </a>
+      </div>
+      {% endif %}
+      <div class="research-article-item__content">
+        <span class="research-article-item__date">{{ post.date | date: "%B %d, %Y" }}</span>
+        <h3 class="research-article-item__title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+        <div class="research-article-item__excerpt">
+          {{ post.excerpt | strip_html | truncate: 500 }}
+        </div>
+        <a href="{{ post.url | relative_url }}" class="research-article-item__more">Read more &rarr;</a>
+      </div>
+    </article>
+  {% endfor %}
 </div>
 
-> 📌 *Curious to connect? Feel free to [get in touch](/contact/)*.
+<div style="margin-top: 1.5em; margin-bottom: 3.5rem;">
+  <a href="/research/#research-articles" class="research-article-item__more">View all research articles &rarr;</a>
+</div>
+
+---
+
+<p style="font-size: 0.95rem; margin-top: 2em;">
+  Interested in a collaboration or have questions about my work? Feel free to <strong><a href="/contact/">get in touch</a></strong>.
+</p>

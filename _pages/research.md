@@ -56,9 +56,27 @@ I’ve also supervised students on a range of projects that combine physics and 
 
 {% assign blog_posts = site.posts | sort: "date" | reverse %}
 
-<div class="entries-grid">
+<div class="research-article-list">
   {% for post in blog_posts %}
-    {% include archive-single.html type="grid" %}
+    <article class="research-article-item">
+      {% if post.header.teaser %}
+      <div class="research-article-item__image">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}">
+        </a>
+      </div>
+      {% endif %}
+      <div class="research-article-item__content">
+        <span class="research-article-item__date">{{ post.date | date: "%B %d, %Y" }}</span>
+        <h3 class="research-article-item__title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+        <div class="research-article-item__excerpt">
+          {{ post.excerpt | strip_html | truncate: 500 }}
+        </div>
+        <a href="{{ post.url | relative_url }}" class="research-article-item__more">Read more &rarr;</a>
+      </div>
+    </article>
   {% endfor %}
 </div>
 
