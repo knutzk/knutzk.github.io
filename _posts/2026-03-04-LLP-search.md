@@ -3,7 +3,7 @@ layout: single
 title: "Finding the Invisible: ATLAS Probes Long-Lived Particles with Displaced Muons"
 excerpt: >
   The ATLAS Collaboration has released a substantial new search for long-lived particles using the first data from LHC Run 3, pushing our sensitivity to new physics further than ever before.
-last_modified_at: 2026-03-03
+last_modified_at: 2026-03-04
 header:
   overlay_image: "/assets/research/dvmu-event-display.jpg"
   caption: "Candidate event showing a displaced vertex (DV) and a displaced muon produced far from the interaction point (Image: ATLAS Collaboration/CERN)."
