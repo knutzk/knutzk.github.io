@@ -14,9 +14,9 @@ tags: [ATLAS, SUSY, LLP, LHC, Run 3, BSM, long-lived particles]
 
 In the high-energy environment of the Large Hadron Collider (LHC), most new particles under investigation are expected to decay almost instantaneously. They leave their signatures as *prompt* signals at the heart of the detector. However, many theories suggest that the next major discovery could be a "slow-burner" – particles that travel several millimeters, or even decimeters, before revealing themselves through their decay products.
 
-These are **Long-Lived Particles (LLPs)**, and they are a central prediction of numerous theories that extend beyond the Standard Model. In a new result recently submitted to *Physics Letters B* – an effort I had the privilege of coordinating – the ATLAS Collaboration presents a comprehensive hunt for these elusive travelers, utilizing a substantial dataset of 164 fb⁻¹ collected during the first three years of LHC Run 3 (2022–2024).
+These are **Long-Lived Particles (LLPs)**, and they are a central prediction of numerous theories that extend beyond the Standard Model. In a new result recently submitted to *Physics Letters B* – an effort I had the privilege of coordinating – the ATLAS Collaboration presents a comprehensive hunt for these elusive travelers, utilizing a dataset collected during the first three years of LHC Run 3 (2022–2024), amounting to 164 inverse femtobarns of data.
 
-## The Challenge of the Displaced
+## The Challenge of Displaced Events
 
 Searching for LLPs is analogous to looking for a ghost that only becomes visible after it has left the room. Most standard reconstruction algorithms are designed for particles originating from the primary proton–proton collision point. Particles that decay further out – leaving **displaced vertices (DVs)** or **displaced tracks** – are frequently filtered out by standard software as noise or misreconstructions.
 
@@ -26,9 +26,9 @@ To overcome this, we have implemented several technical innovations. In Run 3, A
 
 The stability (or lifetime) of a particle is typically determined by the strength of its interactions and the mass of the *mediators* – the messenger particles that carry forces between others. In the Standard Model (our current best theory of the subatomic world), the neutron is relatively long-lived because its decay is suppressed by the high mass of the *W* boson. In theories such as **Supersymmetry (SUSY)** – which proposes a *superpartner* for every known particle in nature – we encounter a similar phenomenon.
 
-If a symmetry known as **R-parity** is slightly broken – a scenario referred to as **R-parity violation** – the *Lightest Supersymmetric Particle* is no longer stable. While this particle is often considered a dark matter candidate in *stable* theories, in models with broken symmetry it can decay into quarks and leptons. If the interaction coupling (the *strength* of the decay) is sufficiently small, the particle will travel a measurable distance through the detector before finally revealing itself.
+If a symmetry known as **R-parity** is slightly broken – a scenario referred to as **R-parity violation** – the *Lightest Supersymmetric Particle* is no longer stable. While this particle is often considered a dark matter candidate in *stable* theories, in models with broken symmetry it can decay into quarks and leptons. If this instability is rather subtle (that is, the coupling is weak), the particle will travel a measurable distance through the detector before finally revealing itself.
 
-In this analysis, the search was optimized for two primary SUSY scenarios:
+In our analysis, we probed some of these superpartners with R-parity violation couplings. The search was optimized for two primary SUSY scenarios:
 1.  **Higgsinos:** The superpartners of the Higgs bosons. In our benchmark models, these can decay into muons and quarks via processes that break the fundamental rules that usually keep the number of leptons (like electrons) or baryons (like protons) balanced in the universe.
 2.  **Top Squarks (Stops):** The superpartners of the top quark. When these decay via R-parity-violating couplings, they produce a distinctive signature: a *b*-quark jet and a muon, both originating from a common vertex located far from the initial collision point.
 
