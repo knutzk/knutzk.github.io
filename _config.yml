@@ -55,6 +55,11 @@ collections:
 include:
   - _pages
 
+footer:
+  links:
+    - label: "Privacy Policy"
+      url: "/privacy/"
+
 defaults:
   - scope:
       path: ""
