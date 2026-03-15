@@ -24,16 +24,16 @@ To overcome this, we have implemented several technical innovations. In Run 3, A
 
 ## Why Long-Lived?
 
-The stability (or lifetime) of a particle is typically determined by the strength of its interactions and the mass of the *mediators* – the messenger particles that carry forces between others. In the Standard Model (our current best theory of the subatomic world), the neutron is relatively long-lived because its decay is suppressed by the high mass of the *W* boson. In theories such as **Supersymmetry (SUSY)** – which proposes a *superpartner* for every known particle in nature – we encounter a similar phenomenon.
+The stability (or lifetime) of a particle is typically determined by the strength of its interactions and the mass of the *mediators* – the messenger particles that carry forces between others. In the Standard Model (our current best theory of the subatomic world), the neutron is relatively long-lived because its decay is suppressed by the high mass of the *W* boson. In theories such as **Supersymmetry** – which proposes a *superpartner* for every known particle in nature – we encounter a similar phenomenon.
 
 If a symmetry known as **R-parity** is slightly broken – a scenario referred to as **R-parity violation** – the *Lightest Supersymmetric Particle* is no longer stable. While this particle is often considered a dark matter candidate in *stable* theories, in models with broken symmetry it can decay into quarks and leptons. If this instability is rather subtle (that is, the coupling is weak), the particle will travel a measurable distance through the detector before finally revealing itself.
 
-In our analysis, we probed some of these superpartners with R-parity violation couplings. The search was optimized for two primary SUSY scenarios:
+In our analysis, we probed some of these superpartners with R-parity violation couplings. The search was optimized for two primary supersymmetric scenarios:
 1.  **Higgsinos:** The superpartners of the Higgs bosons. In our benchmark models, these can decay into muons and quarks via processes that break the fundamental rules that usually keep the number of leptons (like electrons) or baryons (like protons) balanced in the universe.
 2.  **Top Squarks (Stops):** The superpartners of the top quark. When these decay via R-parity-violating couplings, they produce a distinctive signature: a *b*-quark jet and a muon, both originating from a common vertex located far from the initial collision point.
 
 ![Feynman diagrams of the R-parity-violating decay modes.](/assets/research/dvmu-feynman-diagrams.jpg)
-*Figure 1: Benchmark signal models for long-lived SUSY particles, showing the characteristic displaced vertex and displaced muon signature. (Image: ATLAS Collaboration/CERN)*
+*Figure 1: Benchmark signal models for long-lived supersymmetric particles, showing the characteristic displaced vertex and displaced muon signature. (Image: ATLAS Collaboration/CERN)*
 
 ## The Art of Reconstruction
 
