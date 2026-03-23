@@ -27,7 +27,9 @@ Beyond the lab, I started [Bridging AI and Society](https://bridgingaiandsociety
 
 ## Outreach and Engagement
 
-I regularly guide visitors through the ATLAS detector and enjoy sharing what we do at CERN with students, teachers, and the public. I also contribute to **peer review and editorial work**, helping ensure scientific standards across leading journals and collaboration outputs. These activities reflect my belief that science grows stronger when it is open, critically reviewed, and communicated widely.
+I regularly guide visitors through the ATLAS detector and enjoy sharing what we do at CERN with students, teachers, and the public. If you are planning a visit to CERN – especially if you have a connection to my former universities or the German Academic Scholarship Foundation (*Studienstiftung*) – feel free to get in touch, and I am happy to provide information or arrange a tour.
+
+I also contribute to **peer review and editorial work**, helping ensure scientific standards across leading journals and collaboration outputs. These activities reflect my belief that science grows stronger when it is open, critically reviewed, and communicated widely.
 
 *For current research and leadership details, see the [research page](/research/). For a closer look at my student supervision and teaching, visit the [teaching page](/teaching/).*
 

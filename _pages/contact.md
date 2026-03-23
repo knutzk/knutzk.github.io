@@ -10,6 +10,7 @@ I’m happy to hear from colleagues, students, and anyone interested in **experi
 - **Research collaborations** in top-quark physics, event reconstruction, or new physics searches
 - **Student supervision** or research project opportunities
 - **Invited talks**, seminars, or teaching contributions
+- **CERN visits and tours**, especially for academic groups or members of the *Studienstiftung*
 - General questions about working at CERN, academic careers, or international fellowships
 
     📧 <b><span id="email-contact">[email address]</span></b>
