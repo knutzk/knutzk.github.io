@@ -8,16 +8,13 @@ header:
 
 # Knut Zoch – Particle Physicist at CERN
 
-I'm a **particle physicist at CERN**, working with the Large Hadron Collider (LHC) – the world’s most powerful particle accelerator. At the LHC, protons collide at unprecedented energies, creating new particles and giving us a glimpse into the fundamental laws of nature. You can read more about my journey into physics on the [about page](/about/).
+I'm an **experimental particle physicist at CERN**, working with the **ATLAS experiment** at the Large Hadron Collider. My work explores the fundamental laws of nature by studying proton collisions at unprecedented energies. You can read more about my journey in physics on my [about page](/about/).
 
-Within this environment, I am part of the **ATLAS experiment**, one of the major detectors studying these collisions. My [research](/research/) focuses on **top-quark physics**, **machine learning for data analysis**, and **searches for physics beyond the Standard Model**. The top quark, the heaviest known elementary particle, plays a special role in our understanding of nature. By studying how it is produced and how it behaves, we can test the limits of today’s theories and search for new phenomena. The page is also where I regularly share [updates and articles about my work](/research/#research-articles).
+My [research](/research/) focuses on **top-quark physics**, **machine learning for data analysis**, and **searches for physics beyond the Standard Model**. I design analyses that probe rare processes, uncover subtle patterns in the data, and test the limits of current theoretical models. For technical details on my analyses, you can browse my [publications](/publications/), or check out my [research articles](/research/#research-articles) where I share more in-depth updates on my work.
 
-Within ATLAS, I work with colleagues to design analyses that probe rare processes and uncover subtle patterns in the data. My projects have included studies of collisions that produce extra heavy quarks as well as the development of new methods that help us interpret the huge amount of information recorded by the detectors. More details can be found on my [publications page](/publications/).
+A central theme in my research is the application of **machine learning**. From identifying invisible particles to spotting unusual events, modern algorithms offer exciting new ways to interpret complex detector data and push science forward.
 
-A strong theme in my work is the use of **machine learning**. Modern algorithms help us recognize hidden structures in data that would be hard to detect otherwise. I have applied these techniques to topics ranging from identifying invisible particles to spotting unusual events that could hint at new physics. For me, combining physics and machine learning is one of the most exciting ways to push science forward.
-
-Outside the lab, I enjoy **teaching and mentoring**. I have supervised students on research projects in physics and machine learning, supporting them as they grow into independent researchers. I also co-lead **interdisciplinary machine learning courses** for the German Academic Scholarship Foundation. These courses bring together students from the sciences and humanities to explore algorithms, real-world applications, and the societal dimensions of AI. You can read more about my approach to supervision and outreach on the [teaching page](/teaching/).
-
+Beyond the lab, I am deeply committed to **teaching and mentoring**. Whether supervising students on research projects or co-leading interdisciplinary AI courses, helping early-career researchers grow remains one of the most rewarding aspects of my work. Discover more about my approach to supervision and outreach on my [teaching page](/teaching/).
 
 ---
 
@@ -54,6 +51,7 @@ Outside the lab, I enjoy **teaching and mentoring**. I have supervised students 
 
 ---
 
-<p style="font-size: 0.95rem; margin-top: 2em;">
-  Interested in a collaboration or have questions about my work? Feel free to <strong><a href="/contact/">get in touch</a></strong>.
+<p style="font-size: 1.05rem; text-align: center; margin-top: 3em; margin-bottom: 2em;">
+  Interested in a collaboration, or have questions about my work or working at CERN?<br>
+  Feel free to <strong><a href="/contact/">get in touch</a></strong>.
 </p>
