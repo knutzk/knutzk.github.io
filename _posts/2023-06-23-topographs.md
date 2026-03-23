@@ -36,7 +36,7 @@ Unlike previous graph neural network (GNN) approaches that often create fully co
 
 The key innovation of Topographs lies in how they make predictions for the most likely jet assignment to the top quarks. The process works through several interconnected components:
 
-1.  **Explicit Modeling of Intermediate Particles:** Topographs inject nodes for intermediate particles—such as W bosons and top quarks—directly into the graph structure. These nodes are initialized using attention-weighted pooling from the input jets, where different networks generate attention weights for each intermediate particle type. This allows the network not only to assign jets to these particles but also to predict their kinematic properties through dedicated regression components.
+1.  **Explicit Modeling of Intermediate Particles:** Topographs inject nodes for intermediate particles – such as W bosons and top quarks – directly into the graph structure. These nodes are initialized using attention-weighted pooling from the input jets, where different networks generate attention weights for each intermediate particle type. This allows the network not only to assign jets to these particles but also to predict their kinematic properties through dedicated regression components.
 
 2.  **Physics-Inspired Connections:** The edges in the Topograph reflect known decay patterns, connecting daughter particles (jets) only to plausible parent particles. This physics prior constrains the graph in a meaningful way, reducing complexity and guiding the learning process toward physically valid solutions. For instance, jets are connected to both W boson nodes and top quark nodes – the connections follow the expected decay topology.
 

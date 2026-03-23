@@ -13,7 +13,7 @@ My research explores the fundamental nature of matter and energy using the ATLAS
 
 ## Research Philosophy
 
-I’m drawn to questions at the edge of what’s measurable — rare processes that test theoretical predictions or hint at new physics. I believe the most exciting results come from combining precision measurements with new methodological tools.
+I’m drawn to questions at the edge of what’s measurable – rare processes that test theoretical predictions or hint at new physics. I believe the most exciting results come from combining precision measurements with new methodological tools.
 
 Rather than choosing between rigorous analysis and computational innovation, I build strategies that integrate both: algorithms that respect physical symmetries, analyses that extract subtle signals from difficult final states, and collaborative work that brings diverse expertise together.
 
@@ -28,13 +28,13 @@ These measurements also provide valuable input for **Effective Field Theory (EFT
 
 #### Machine Learning Applications
 
-I develop machine learning techniques tailored for collider physics — from conditional normalizing flows that reconstruct invisible particles like neutrinos to graph neural networks for jet tagging and transformers for particle identification.
+I develop machine learning techniques tailored for collider physics – from conditional normalizing flows that reconstruct invisible particles like neutrinos to graph neural networks for jet tagging and transformers for particle identification.
 
 A central theme is **physics-informed ML**: models that respect detector geometry, symmetry constraints, and physical priors, while providing interpretable and reliable outputs. These tools improve statistical precision and open new avenues for reconstruction and anomaly detection.
 
 #### Searches for New Physics
 
-Much of my search work focuses on model-independent approaches — particularly anomaly detection and long-lived particle signatures. These searches often challenge conventional triggers and reconstruction tools, requiring new techniques from both the detector and algorithmic side.
+Much of my search work focuses on model-independent approaches – particularly anomaly detection and long-lived particle signatures. These searches often challenge conventional triggers and reconstruction tools, requiring new techniques from both the detector and algorithmic side.
 
 I'm especially interested in signatures that could go unnoticed in traditional searches: displaced vertices, unusual jet substructure, or unexpected correlations in final states.
 
@@ -48,7 +48,7 @@ Working within the ATLAS Collaboration has shaped my scientific approach. I’ve
 - **Online Data Quality Coordinator** (2021–2023): Oversaw detector monitoring operations during LHC data taking, leading a rotating team of 120 contributors.
 - **Machine Learning Liaison** (2021–2023): Supported the top-quark physics group in applying ML techniques and helped shape ML education within the collaboration.
 
-I’ve also supervised students on a range of projects that combine physics and machine learning — from anomaly detection in jet data to reconstructing neutrinos with normalizing flows. For more on this aspect of my work, see the [teaching & mentoring page](/teaching/).
+I’ve also supervised students on a range of projects that combine physics and machine learning – from anomaly detection in jet data to reconstructing neutrinos with normalizing flows. For more on this aspect of my work, see the [teaching & mentoring page](/teaching/).
 
 ---
 

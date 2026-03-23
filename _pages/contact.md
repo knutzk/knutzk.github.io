@@ -5,7 +5,7 @@ permalink: /contact/
 layout: single
 ---
 
-I’m happy to hear from colleagues, students, and anyone interested in **experimental particle physics**, **machine learning**, or scientific collaboration. Please feel free to reach out — especially if you're looking to connect about:
+I’m happy to hear from colleagues, students, and anyone interested in **experimental particle physics**, **machine learning**, or scientific collaboration. Please feel free to reach out – especially if you're looking to connect about:
 
 - **Research collaborations** in top-quark physics, event reconstruction, or new physics searches
 - **Student supervision** or research project opportunities
@@ -37,4 +37,4 @@ Switzerland<br>
 
 ---
 
-*Thanks for your interest — I look forward to hearing from you.*
+*Thanks for your interest – I look forward to hearing from you.*

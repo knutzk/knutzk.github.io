@@ -5,7 +5,7 @@ permalink: /publications/
 layout: single
 ---
 
-My work in experimental particle physics has contributed to a wide range of publications — from precision measurements within the ATLAS Collaboration to method-oriented studies on machine learning and anomaly detection. These papers reflect the diversity of my research, spanning collider phenomenology, event reconstruction, and statistical modeling.
+My work in experimental particle physics has contributed to a wide range of publications – from precision measurements within the ATLAS Collaboration to method-oriented studies on machine learning and anomaly detection. These papers reflect the diversity of my research, spanning collider phenomenology, event reconstruction, and statistical modeling.
 
 As a member of the [ATLAS Collaboration](https://atlas.cern/), I have co-authored over **700 publications**, while contributing directly to a focused set of key analyses, particularly in top-quark physics, event reconstruction, and searches for new physics. Beyond ATLAS, I have published multiple **independent projects** on machine learning and data analysis techniques in high-energy physics.
 
@@ -17,7 +17,7 @@ As a member of the [ATLAS Collaboration](https://atlas.cern/), I have co-authore
 
 ## ATLAS Publications
 
-These papers are part of my collaborative work within the ATLAS experiment at CERN. While many are large-scale efforts, I’ve made **substantial personal contributions** to several key publications — especially those tied to my research on rare top-quark processes and searches for new physics signatures.
+These papers are part of my collaborative work within the ATLAS experiment at CERN. While many are large-scale efforts, I’ve made **substantial personal contributions** to several key publications – especially those tied to my research on rare top-quark processes and searches for new physics signatures.
 
 {% assign atlas_pubs = site.publications | where: "pub_category", "ATLAS" | sort: "pub_date" | reverse %}
 {% for pub in atlas_pubs %}
@@ -36,6 +36,6 @@ This section features peer-reviewed publications and open resources I’ve led o
 
 ---
 
-*These publications illustrate the range and impact of my research — from high-precision collider measurements to innovative methodological work. For context on how these efforts fit into my broader program, see the [Research](/research/) page.*
+*These publications illustrate the range and impact of my research – from high-precision collider measurements to innovative methodological work. For context on how these efforts fit into my broader program, see the [Research](/research/) page.*
 
 **Interested in collaboration or have questions about a specific paper?** Feel free to [get in touch](/contact/).
