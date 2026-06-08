@@ -14,7 +14,7 @@ tags: [ATLAS, SUSY, LLP, LHC, Run 3, BSM, long-lived particles]
 
 In the high-energy environment of the Large Hadron Collider (LHC), most new particles under investigation are expected to decay almost instantaneously. They leave their signatures as *prompt* signals at the heart of the detector. However, many theories suggest that the next major discovery could be a "slow-burner" – particles that travel several millimeters, or even decimeters, before revealing themselves through their decay products.
 
-These are **Long-Lived Particles (LLPs)**, and they are a central prediction of numerous theories that extend beyond the Standard Model. In a new result recently submitted to *Physics Letters B* – an effort I had the privilege of coordinating – the ATLAS Collaboration presents a comprehensive hunt for these elusive travelers, utilizing a dataset collected during the first three years of LHC Run 3 (2022–2024), amounting to 164 inverse femtobarns of data.
+These are **Long-Lived Particles (LLPs)**, and they are a central prediction of numerous theories that extend beyond the Standard Model. In a new result recently published in *Physics Letters B* – an effort I had the privilege of coordinating – the ATLAS Collaboration presents a comprehensive hunt for these elusive travelers, utilizing a dataset collected during the first three years of LHC Run 3 (2022–2024), amounting to 164 inverse femtobarns of data.
 
 ## The Challenge of Displaced Events
 
@@ -88,4 +88,4 @@ By targeting the *displaced* and the *invisible*, we are systematically closing 
 
 **Author:** ATLAS Collaboration<br>
 **Title:** *Search for massive, long-lived particles in events with displaced vertices and displaced muons in pp collisions at an energy of 13.6 TeV with the ATLAS experiment*<br>
-**Reference:** Submitted to *Phys. Lett. B*. [[arXiv:2603.01991](https://arxiv.org/abs/2603.01991)].
+**Reference:** *Phys. Lett. B* 878 (2026) 140509. [[arXiv:2603.01991](https://arxiv.org/abs/2603.01991)]. [DOI:10.1016/j.physletb.2026.140509](https://doi.org/10.1016/j.physletb.2026.140509).
